@@ -1,0 +1,1 @@
+This repository created as test task for stepic course.
