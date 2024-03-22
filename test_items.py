@@ -10,7 +10,7 @@ from selenium.common.exceptions import TimeoutException
 link = "https://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 
-def test_guest_should_see_login_link(browser):
+def test_should_see_btn(browser):
     browser.get(link)
     # Wait to see page language
     time.sleep(5)
